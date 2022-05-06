@@ -1,4 +1,4 @@
-# Image-recognition
+# Image-recognition for Tourism and Navigation ( DEEP LEARNING MODEL )
 This projects provides image based recognition of unknown tourist places and also recommends tourist places based on user preference.
 -----------------------------------------
 Dependencies:
